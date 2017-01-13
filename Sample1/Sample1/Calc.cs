@@ -2,6 +2,8 @@
 {
     public class Calc
     {
+        public void Add(){ }
+
         
     }
 }
