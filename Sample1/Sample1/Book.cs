@@ -2,6 +2,7 @@
 {
     public class Book
     {
-        
+        public double Length { get; set; }
+    }
     }
 }
