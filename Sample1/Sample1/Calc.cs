@@ -4,6 +4,7 @@
     {
         public void Add(){ }
 
-        
+        public void Div() { }
+
     }
 }
