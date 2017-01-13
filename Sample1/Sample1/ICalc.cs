@@ -9,5 +9,7 @@
         void DivB();
 
         void DivD();
+
+        void Mult();
     }
 }

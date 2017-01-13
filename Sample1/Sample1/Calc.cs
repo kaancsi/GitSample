@@ -9,5 +9,7 @@
         public void DivB() { }
 
         public void DivD() { }
+
+        public void Mult() { }
     }
 }
