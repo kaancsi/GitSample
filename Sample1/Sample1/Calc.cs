@@ -1,8 +1,10 @@
-﻿namespace Sample1
+﻿using System;
+
+namespace Sample1
 {
     public class Calc : ICalc
     {
-        public void Add() { }
+        public void Add() { Console.WriteLine("add");}
 
         public void Div() { }
 
